@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Curso C#\POO\Estatistica\bin\Debug\Estatistica.exe.config
+C:\Users\user\Documents\Curso C#\POO\Estatistica\bin\Debug\Estatistica.exe
+C:\Users\user\Documents\Curso C#\POO\Estatistica\bin\Debug\Estatistica.pdb
+C:\Users\user\Documents\Curso C#\POO\Estatistica\obj\Debug\Estatistica.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Curso C#\POO\Estatistica\obj\Debug\Estatistica.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\POO\Estatistica\obj\Debug\Estatistica.exe
+C:\Users\user\Documents\Curso C#\POO\Estatistica\obj\Debug\Estatistica.pdb

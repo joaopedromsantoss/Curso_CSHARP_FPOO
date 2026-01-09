@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\bin\Debug\net8.0\ConsoleAppVariavel.exe
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\bin\Debug\net8.0\ConsoleAppVariavel.deps.json
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\bin\Debug\net8.0\ConsoleAppVariavel.runtimeconfig.json
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\bin\Debug\net8.0\ConsoleAppVariavel.dll
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\bin\Debug\net8.0\ConsoleAppVariavel.pdb
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.AssemblyInfo.cs
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.dll
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\refint\ConsoleAppVariavel.dll
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.pdb
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ConsoleAppVariavel.genruntimeconfig.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppVariavel\obj\Debug\net8.0\ref\ConsoleAppVariavel.dll

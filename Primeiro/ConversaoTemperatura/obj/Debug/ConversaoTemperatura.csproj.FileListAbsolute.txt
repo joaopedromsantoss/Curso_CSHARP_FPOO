@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\bin\Debug\ConversaoTemperatura.exe.config
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\bin\Debug\ConversaoTemperatura.exe
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\bin\Debug\ConversaoTemperatura.pdb
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.exe
+C:\Users\user\Documents\Curso C#\Primeiro\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.pdb

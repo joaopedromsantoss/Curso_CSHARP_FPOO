@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.exe
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.deps.json
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.runtimeconfig.json
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.dll
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.pdb
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.AssemblyInfo.cs
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.dll
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\refint\ConsoleAppTopLevel.dll
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.pdb
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.genruntimeconfig.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ref\ConsoleAppTopLevel.dll

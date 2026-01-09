@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\bin\Debug\MetodoClasses.exe.config
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\bin\Debug\MetodoClasses.exe
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\bin\Debug\MetodoClasses.pdb
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\obj\Debug\MetodoClasses.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\obj\Debug\MetodoClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\obj\Debug\MetodoClasses.exe
+C:\Users\user\Documents\Curso C#\POO\MetodoClasses\obj\Debug\MetodoClasses.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicao", "Condicao\Condicao.csproj", "{D774167E-8938-4DE4-85FA-DB0713ADB55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularIMC", "CalcularIMC\CalcularIMC.csproj", "{47BCC3C9-2171-4BD7-9380-7286C48E45CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D774167E-8938-4DE4-85FA-DB0713ADB55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D774167E-8938-4DE4-85FA-DB0713ADB55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D774167E-8938-4DE4-85FA-DB0713ADB55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D774167E-8938-4DE4-85FA-DB0713ADB55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BCC3C9-2171-4BD7-9380-7286C48E45CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BCC3C9-2171-4BD7-9380-7286C48E45CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BCC3C9-2171-4BD7-9380-7286C48E45CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BCC3C9-2171-4BD7-9380-7286C48E45CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\Users\user\Documents\Curso C#\Condicao\Condicao\obj\Debug\Condicao.pdb

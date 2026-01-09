@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\bin\Debug\ConversãoDados.exe.config
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\bin\Debug\ConversãoDados.exe
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\bin\Debug\ConversãoDados.pdb
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\obj\Debug\ConversãoDados.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\obj\Debug\ConversãoDados.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\obj\Debug\ConversãoDados.exe
+C:\Users\user\Documents\Curso C#\Primeiro\ConversãoDados\obj\Debug\ConversãoDados.pdb

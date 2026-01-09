@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\bin\Debug\net8.0\CalculadoraAritmeticaSimples.exe
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\bin\Debug\net8.0\CalculadoraAritmeticaSimples.deps.json
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\bin\Debug\net8.0\CalculadoraAritmeticaSimples.runtimeconfig.json
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\bin\Debug\net8.0\CalculadoraAritmeticaSimples.dll
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\bin\Debug\net8.0\CalculadoraAritmeticaSimples.pdb
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.AssemblyInfo.cs
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.dll
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\refint\CalculadoraAritmeticaSimples.dll
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.pdb
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\CalculadoraAritmeticaSimples.genruntimeconfig.cache
+C:\Users\user\Documents\Curso C#\CalculadoraAritmeticaSimples\obj\Debug\net8.0\ref\CalculadoraAritmeticaSimples.dll
